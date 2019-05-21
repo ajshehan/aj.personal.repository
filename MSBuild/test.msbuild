@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="two" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Target Name="one">
+        <Message Text="Hello, World!" Importance="low"/>
+    </Target>
+    <Target Name="two">
+        <Message Text="Bye, World!" Importance="high"/>
+    </Target>
+</Project>
