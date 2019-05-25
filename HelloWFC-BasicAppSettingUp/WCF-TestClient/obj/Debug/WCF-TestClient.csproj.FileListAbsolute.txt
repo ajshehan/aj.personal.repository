@@ -1,0 +1,7 @@
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\WCF-TestClient\bin\Debug\WCF-TestClient.exe.config
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\WCF-TestClient\bin\Debug\WCF-TestClient.exe
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\WCF-TestClient\bin\Debug\WCF-TestClient.pdb
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\WCF-TestClient\obj\Debug\WCF-TestClient.csprojAssemblyReference.cache
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\WCF-TestClient\obj\Debug\WCF-TestClient.csproj.CoreCompileInputs.cache
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\WCF-TestClient\obj\Debug\WCF-TestClient.exe
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\WCF-TestClient\obj\Debug\WCF-TestClient.pdb

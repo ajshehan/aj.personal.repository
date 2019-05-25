@@ -1,0 +1,7 @@
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\HelloWFC-BasicAppSettingUp\bin\Debug\HelloWFC-BasicAppSettingUp.dll.config
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\HelloWFC-BasicAppSettingUp\bin\Debug\HelloWFC-BasicAppSettingUp.dll
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\HelloWFC-BasicAppSettingUp\bin\Debug\HelloWFC-BasicAppSettingUp.pdb
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\HelloWFC-BasicAppSettingUp\obj\Debug\HelloWFC-BasicAppSettingUp.csprojAssemblyReference.cache
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\HelloWFC-BasicAppSettingUp\obj\Debug\HelloWFC-BasicAppSettingUp.csproj.CoreCompileInputs.cache
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\HelloWFC-BasicAppSettingUp\obj\Debug\HelloWFC-BasicAppSettingUp.dll
+G:\Personal Work Space\aj.personal.repository\HelloWFC-BasicAppSettingUp\HelloWFC-BasicAppSettingUp\obj\Debug\HelloWFC-BasicAppSettingUp.pdb
