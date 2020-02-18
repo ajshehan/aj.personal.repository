@@ -16,6 +16,8 @@ namespace HelloWFC_BasicAppSettingUp
         // TODO: Add your service operations here
     }
 
+    //TEST!!!
+
     // Use a data contract as illustrated in the sample below to add composite types to service operations.
     // You can add XSD files into the project. After building the project, you can directly use the data types defined there, with the namespace "HelloWFC_BasicAppSettingUp.ContractType".
     [DataContract]
